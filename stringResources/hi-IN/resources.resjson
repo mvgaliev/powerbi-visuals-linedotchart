@@ -1,0 +1,19 @@
+{
+	"Visual_Line": "पंक्ति",
+	"Visual_Fill": "भरण",
+	"Visual_Thickness": "मोटाई",
+	"Visual_Dot": "डॉट",
+	"Visual_MinSize": "न्यूनतम आकार",
+	"Visual_MaxSize": "अधिकतम आकार",
+	"Visual_Counter": "काउंटर",
+	"Visual_Title": "शीर्षक",
+	"Visual_Animation": "ऐनिमेशन",
+	"Visual_Animated": "ऐनिमेटेड",
+	"Visual_StopOnLoad": "लोड पर रोक",
+	"Visual_Time": "समय",
+	"Visual_Date": "दिनांक",
+	"Visual_Values": "मान",
+	"Visual_AxisProperties": "अक्ष गुण",
+	"Visual_Opacity": "अपारदर्शिता",
+	"Visual_Color": "रंग"
+}

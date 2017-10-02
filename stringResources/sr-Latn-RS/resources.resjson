@@ -1,0 +1,19 @@
+{
+	"Visual_Line": "Red",
+	"Visual_Fill": "Popuni",
+	"Visual_Thickness": "Debljina",
+	"Visual_Dot": "Tačka",
+	"Visual_MinSize": "Minimalna veličina",
+	"Visual_MaxSize": "Maksimalna veličina",
+	"Visual_Counter": "Brojač",
+	"Visual_Title": "Naslov",
+	"Visual_Animation": "Animacija",
+	"Visual_Animated": "Animirano",
+	"Visual_StopOnLoad": "Zaustavi po učitavanju",
+	"Visual_Time": "Vreme",
+	"Visual_Date": "Datum",
+	"Visual_Values": "Vrednosti",
+	"Visual_AxisProperties": "Svojstva osa",
+	"Visual_Opacity": "Neprozirnost",
+	"Visual_Color": "Boja"
+}
